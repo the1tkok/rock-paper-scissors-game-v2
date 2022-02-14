@@ -26,7 +26,7 @@ let computerPlay = () => {
 
 // Compare human and computer inputs
 // Declare winner and loser
-let playRound = (playerSelection, computerSelection, separationLine) => {
+let playRound = (playerSelection, computerSelection) => {
 
     currentRound++;
 
